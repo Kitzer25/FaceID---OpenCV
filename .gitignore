@@ -1,0 +1,10 @@
+opencv/
+**/site-packages/
+*.dll
+*.pyd
+*.lib
+*.so
+venv/
+Lib/
+build/
+dist/
